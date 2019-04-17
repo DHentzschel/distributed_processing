@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="chatserver.de.thro.inf.chatserver.main" target="1.8" />
+      <module name="chatserver.de.thro.inf.chatserver.test" target="1.8" />
+      <module name="chatserver.de.thro.inf.echoserver.main" target="1.8" />
+      <module name="chatserver.de.thro.inf.echoserver.test" target="1.8" />
+      <module name="de.thro.inf.chatserver.main" target="1.8" />
+      <module name="de.thro.inf.chatserver.test" target="1.8" />
+      <module name="de.thro.inf.echoserver.main" target="1.8" />
+      <module name="de.thro.inf.echoserver.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

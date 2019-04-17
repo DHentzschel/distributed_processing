@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatserver.de.thro.inf.chatserver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chatserver.de.thro.inf.chatserver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatserver.de.thro.inf.chatserver.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chatserver.de.thro.inf.chatserver.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.thro.inf.chatserver.iml" filepath="$PROJECT_DIR$/.idea/modules/de.thro.inf.chatserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.thro.inf.chatserver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/de.thro.inf.chatserver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.thro.inf.chatserver.test.iml" filepath="$PROJECT_DIR$/.idea/modules/de.thro.inf.chatserver.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.thro.inf.echoserver.iml" filepath="$PROJECT_DIR$/.idea/modules/de.thro.inf.echoserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.thro.inf.echoserver.main.iml" filepath="$PROJECT_DIR$/.idea/modules/de.thro.inf.echoserver.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.thro.inf.echoserver.test.iml" filepath="$PROJECT_DIR$/.idea/modules/de.thro.inf.echoserver.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/distributed_processing.iml" filepath="$PROJECT_DIR$/.idea/distributed_processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/distributed_processing.de.thro.inf.chatserver.iml" filepath="$PROJECT_DIR$/.idea/modules/distributed_processing.de.thro.inf.chatserver.iml" />
+    </modules>
+  </component>
+</project>
